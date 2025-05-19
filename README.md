@@ -1,6 +1,6 @@
 # Act of Kidness Scholarship
 
-[Act of Kindness Scholarship](https://github.com/rehanjavedofficial/act-of-kindness-scholarship/blob/main/Act%20of%20Kidness.png)
+![Act of Kindness Scholarship](https://github.com/rehanjavedofficial/act-of-kindness-scholarship/blob/main/Act%20of%20Kidness.png)
 
 In a world where compassion can be rare, the Act of Kindness Scholarship shines a light on students who lead with empathy, service, and humanity. This unique scholarship is not just about academic excellence or financial need—it celebrates selfless individuals who go above and beyond to make a difference in their communities.
 
